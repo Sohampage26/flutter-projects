@@ -10,3 +10,7 @@ The Meals App is your go-to resource for discovering delicious recipes, organizi
 
 ### Chat App
 The Chat App revolutionizes communication with its secure and feature-rich platform. Powered by Firebase authentication, users can connect with confidence, knowing their conversations are private and protected. Whether you're chatting one-on-one or in groups, this app offers a seamless experience with real-time messaging capabilities. Stay connected with friends and family in style with the Chat App.
+
+### Expense Tracker App
+
+The Expense Tracker App is your ultimate companion for managing and tracking your finances effortlessly. Whether you're budgeting for personal expenses or keeping tabs on business expenditures, this app has everything you need to stay on top of your finances.
