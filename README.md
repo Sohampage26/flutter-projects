@@ -14,3 +14,7 @@ The Chat App revolutionizes communication with its secure and feature-rich platf
 ### Expense Tracker App
 
 The Expense Tracker App is your ultimate companion for managing and tracking your finances effortlessly. Whether you're budgeting for personal expenses or keeping tabs on business expenditures, this app has everything you need to stay on top of your finances.
+
+
+### Shopping List App
+The Shopping List App is your essential tool for organizing and managing your shopping needs efficiently. Seamlessly integrating state management and Firebase Cloud updates, this app ensures real-time synchronization across all your devices, so you never miss a beat.
